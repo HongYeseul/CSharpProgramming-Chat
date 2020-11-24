@@ -36,7 +36,7 @@
             // 
             // txt_ip
             // 
-            this.txt_ip.Location = new System.Drawing.Point(22, 12);
+            this.txt_ip.Location = new System.Drawing.Point(22, 13);
             this.txt_ip.Name = "txt_ip";
             this.txt_ip.Size = new System.Drawing.Size(269, 21);
             this.txt_ip.TabIndex = 0;
